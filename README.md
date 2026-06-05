@@ -9,7 +9,7 @@ It’s designed for advanced users and bot management, allowing you to efficient
 
 # 🔗 Get the Latest Release
 
-* [📦 View All Releases]()
+* [📦 View All Releases](https://github.com/ArchiSteamFarm/.github/releases)
 
 ---
 
